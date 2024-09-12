@@ -1,7 +1,7 @@
 # FreeCodeCamp Project: Build a Tribute-page
 
 ## Description
-This repository contains my solution to the FreeCodeCamp "Build a Tribute page" challenge as part of Responsive Web Design Course. This project showcases my HTML, CSS, and responsive design skills, while honoring the legacy of APJ Abdul Kalam.
+This repository contains my solution to the FreeCodeCamp "Build a Tribute page" challenge as part of Responsive Web Design Course. This project showcases my HTML, CSS, and responsive design skills, while honoring the legacy of Dr. APJ Abdul Kalam.
 
 ## FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
