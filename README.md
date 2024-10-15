@@ -1,30 +1,30 @@
-# FreeCodeCamp Project: Build a Tribute-page
+# 👩🏻‍💻FreeCodeCamp Project: Build a Tribute-page
 
-## Description
+## 🗒️Description
 This repository contains my solution to the FreeCodeCamp "Build a Tribute page" challenge as part of Responsive Web Design Course. This project showcases my HTML, CSS, and responsive design skills, while honoring the legacy of Dr. APJ Abdul Kalam.
 
-## FCC Challenge Link
+## 🏆FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
 
-## Installation
+## 🌠Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-## Usage
+## 🌟Usage
 This website is a tribute page, showcasing my skills and experience in web development. You can use it as a template for your own tribute page.
 
-## Features
+## 🌈Features
 
 - Responsive design for optimal viewing on various devices.
 - Clean and minimalistic design inspired by APJ Abdul Kalam's legacy
 - Responsive Image to suit the device width and size.
 - Built with accessibility in mind, ensuring equal access for all users.
 
-## Demo
+## 🌸Demo
 ![Screenshot 2024-09-12 100252](https://github.com/user-attachments/assets/40d7d344-75ee-4096-b42c-1d43f75429d9)
 ![Screenshot 2024-09-12 100314](https://github.com/user-attachments/assets/74aa6603-36db-46a3-8996-401b71d0f4dd)
 ![Screenshot 2024-09-12 100329](https://github.com/user-attachments/assets/f7730fa0-7dd7-4b5e-b4ef-b8060d5facf0)
 
-## FCC User Story
+## 🛸FCC User Story
 The project meets the following user stories:
 
 1. Your tribute page should have a main element with a corresponding id of main, which contains all other elements
@@ -39,14 +39,14 @@ The project meets the following user stories:
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-## Contributing
+## 🫱🏼‍🫲🏼Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-## License
+## 🔏License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙇🏻‍♀️Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-## Connect with me
+## 🚀Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
